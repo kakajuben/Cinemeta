@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1790710903404,
+      "tag": "0000_create_stremio_addons",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1790710933114,
+      "tag": "0001_addons_icon_url",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1791006430469,
+      "tag": "0002_catalog_items_videos",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1792168806795,
+      "tag": "0003_create_extension_providers",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1793722728051,
+      "tag": "0004_tighten_public_read_policies",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1795085824624,
+      "tag": "0005_prevent_signup_admin_escalation",
+      "breakpoints": true
+    }
+  ]
+}

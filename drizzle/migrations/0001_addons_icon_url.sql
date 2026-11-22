@@ -1,0 +1,1 @@
+ALTER TABLE public.stremio_addons ADD COLUMN IF NOT EXISTS icon_url text;

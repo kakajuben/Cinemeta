@@ -1,0 +1,6 @@
+{
+  "appId": "com.yourname.netflixmirror",
+  "appName": "Netflix Mirror",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

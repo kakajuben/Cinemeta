@@ -1,0 +1,20 @@
+{
+  "name": "TryBox Cinema",
+  "short_name": "TryBox",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0a0a0c",
+  "theme_color": "#0a0a0c",
+  "icons": [
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ],
+  "shortcuts": [
+    { "name": "My Watchlist", "url": "/my-box" },
+    { "name": "Movies", "url": "/?type=movie" },
+    { "name": "TV Series", "url": "/?type=series" },
+    { "name": "Anime", "url": "/?type=anime" }
+  ]
+}
